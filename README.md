@@ -1,7 +1,7 @@
  Hey there, I'm Izael Gomes 👋
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ReactJs
 
 <div align="center">
   <a href="https://github.com/IzaelGomes">
