@@ -15,7 +15,6 @@
   
  </div>
 
- <a href="https://app.daily.dev/izaelgomes"><img src="https://api.daily.dev/devcards/12f3efdfcf1343cb9c3a771d211e77b2.png?r=1vh" width="400" alt="Izael Gomes's Dev Card"/></a>
  
   <div>
     <a href="https://instagram.com/izael__gomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
