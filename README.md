@@ -7,7 +7,7 @@
   </div>
 
 
-   - Software Developer
+   - Working as a Software Developer
    - Information System student
    - Passionate about tecnology
    - I'm alaways thrilled to learn and help other people
