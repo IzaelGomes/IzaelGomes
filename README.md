@@ -3,12 +3,12 @@
 
   <div align="left">
     <a href="https://github.com/IzaelGomes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaelGomes&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzaelGomes&layout=compact&langs_count=7&theme=light"/>
   </div>
 
 
-   - Working as a Software Developer
-   - Information System student
+   - Working as a Software Developer at Unileão
+   - Undergraduate Information System student
    - Passionate about tecnology
    - I'm alaways thrilled to learn and help other people
 
